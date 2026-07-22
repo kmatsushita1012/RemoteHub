@@ -23,7 +23,7 @@ brew install --cask remote-sim
 
 ### DMG
 
-最新版の[Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote.Sim.dmg)をダウンロードして開き、`Remote Sim.app`をアプリケーションへ移動します。
+最新版の[Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteSim/releases/latest/download/Remote.Sim.dmg)をダウンロードして開き、`Remote Sim.app`をアプリケーションへ移動します。
 
 ## できること
 
@@ -39,7 +39,7 @@ PCとスマホが、同じネットワークまたはVPNを通じて互いに到
 
 ## リリース
 
-最新版は[Releases](https://github.com/kmatsushita1012/RemoteHub/releases)から取得できます。公開ファイルは署名・公証済みで、DMGとHomebrew Caskを利用できます。
+最新版は[Releases](https://github.com/kmatsushita1012/RemoteSim/releases)から取得できます。公開ファイルは署名・公証済みで、DMGとHomebrew Caskを利用できます。
 
 ## サポート
 

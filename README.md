@@ -23,7 +23,7 @@ brew install --cask remote-sim
 
 ### DMG
 
-Download the latest [Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote.Sim.dmg), open it, and move `Remote Sim.app` to Applications.
+Download the latest [Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteSim/releases/latest/download/Remote.Sim.dmg), open it, and move `Remote Sim.app` to Applications.
 
 ## What you can do
 
@@ -39,7 +39,7 @@ The PC and smartphone must be reachable from one another on the same local netwo
 
 ## Releases
 
-Download the latest build from the [Releases](https://github.com/kmatsushita1012/RemoteHub/releases) page. The public assets are signed, notarized, and available as a DMG or Homebrew Cask.
+Download the latest build from the [Releases](https://github.com/kmatsushita1012/RemoteSim/releases) page. The public assets are signed, notarized, and available as a DMG or Homebrew Cask.
 
 ## Support
 
