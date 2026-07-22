@@ -1,13 +1,13 @@
 [日本語版 README_ja.md](README_ja.md)
 
-# Remote Sim
+# RemoteSim
 
-**Bring simulator feedback closer.** Remote Sim puts a live simulator view and its essential controls in your hands, so you can check UI changes without staying at your desk.
+**Bring simulator feedback closer.** RemoteSim puts a live simulator view and its essential controls in your hands, so you can check UI changes without staying at your desk.
 
 ## Quick start
 
 1. Install the PC app with Homebrew or download the DMG.
-2. Open the PC app and Remote Sim on your smartphone.
+2. Open the PC app and RemoteSim on your smartphone.
 3. Connect both devices to the same network or VPN.
 4. Use automatic iCloud connection on first setup, or choose **Share App URL** in the PC app settings and send the URL to your smartphone with AirDrop.
 5. Select a simulator and start viewing or controlling it.
@@ -23,7 +23,7 @@ brew install --cask remote-sim
 
 ### DMG
 
-Download the latest [Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteSim/releases/latest/download/Remote.Sim.dmg), open it, and move `Remote Sim.app` to Applications.
+Download the latest [RemoteSim.dmg](https://github.com/kmatsushita1012/RemoteSim/releases/latest/download/RemoteSim.dmg), open it, and move `RemoteSim.app` to Applications.
 
 ## What you can do
 
