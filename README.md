@@ -23,7 +23,7 @@ brew install --cask remote-sim
 
 ### DMG
 
-Download the latest [Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote%20Sim.dmg), open it, and move `Remote Sim.app` to Applications.
+Download the latest [Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote.Sim.dmg), open it, and move `Remote Sim.app` to Applications.
 
 ## What you can do
 

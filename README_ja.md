@@ -23,7 +23,7 @@ brew install --cask remote-sim
 
 ### DMG
 
-最新版の[Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote%20Sim.dmg)をダウンロードして開き、`Remote Sim.app`をアプリケーションへ移動します。
+最新版の[Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote.Sim.dmg)をダウンロードして開き、`Remote Sim.app`をアプリケーションへ移動します。
 
 ## できること
 
